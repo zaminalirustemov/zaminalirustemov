@@ -1,4 +1,4 @@
-![MasterHead]https://github.blog/wp-content/uploads/2020/12/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?fit=1200%2C630
+[![MasterHead](https://github.blog/wp-content/uploads/2020/12/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?fit=1200%2C630)
 <h1 align="center">Hi 👋, I'm Zaminali Rustamov</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
