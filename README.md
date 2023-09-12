@@ -1,3 +1,5 @@
+[![MasterHead](![image](https://github.com/zaminalirustemov/zaminalirustemov/assets/116644215/0a8cd8a4-20e2-4f4c-a33a-1b95956736f5)
+)
 <h1 align="center">Hi 👋, I'm Zaminali Rustamov</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
