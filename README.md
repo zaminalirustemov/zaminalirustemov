@@ -1,4 +1,4 @@
-[![MasterHead]([(https://github.com/zaminalirustemov/zaminalirustemov/assets/116644215/0a8cd8a4-20e2-4f4c-a33a-1b95956736f5)](https://github.blog/wp-content/uploads/2020/12/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?fit=1200%2C630))
+[![MasterHead]([http:ile istediginiz fotoğrafın linkini buraya yazın](https://github.githubassets.com/images/modules/site/home-campaign/hero-bg.webp))
 <h1 align="center">Hi 👋, I'm Zaminali Rustamov</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
