@@ -1,4 +1,4 @@
-[![MasterHead]((https://github.githubassets.com/images/modules/site/home-campaign/hero-bg.webp))
+[![MasterHead](https://github.githubassets.com/images/modules/site/home-campaign/hero-bg.webp)
 <h1 align="center">Hi 👋, I'm Zaminali Rustamov</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
