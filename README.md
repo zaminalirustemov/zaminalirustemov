@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zaminali Rustamov</h1>
 
-
 ## About Me
  - I'm an **Software Developer** passionate about building efficient and user-friendly applications.
  - I specialize in **Kotlin** and **Jetpack Compose**.
