@@ -46,7 +46,6 @@ I work with a variety of tools to bring ideas to life. Here are some of the tech
 
 ---
 
-
 <p align="start">☕️ Your support helps me continue working on improving this project and bringing new features to life. Every cup counts! </p>
 
 <p align="start">
