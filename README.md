@@ -7,7 +7,6 @@
 
 ---
 
-
 ## 📬 Connect with Me:
 Feel free to reach out through any of the platforms below:
 </br>
