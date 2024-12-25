@@ -49,7 +49,6 @@ I work with a variety of tools to bring ideas to life. Here are some of the tech
 
 <p align="start">☕️ Your support helps me continue working on improving this project and bringing new features to life. Every cup counts! </p>
 
-
 <p align="start">
   <a href="https://www.buymeacoffee.com/zaminalirustamov" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;">
