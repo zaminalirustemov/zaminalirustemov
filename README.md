@@ -5,7 +5,6 @@
  - I specialize in **Kotlin** and **Jetpack Compose**.
  - Currently working on [SIMA](https://sima.az/en)
 
-
 ---
 
 ## 📬 Connect with Me:
