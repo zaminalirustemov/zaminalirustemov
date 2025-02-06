@@ -3,7 +3,7 @@
 ## About Me
  - I'm an **Software Developer** passionate about building efficient and user-friendly applications.
  - I specialize in **Kotlin** and **Jetpack Compose**.
- - Currently working on [SIMA](https://sima.az/en)
+ - Currently working on [Unibank](https://unibank.az/en)
 
 ---
 
